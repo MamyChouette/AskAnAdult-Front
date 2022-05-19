@@ -1,2 +1,2 @@
 # AskAnAdult
-Plateforme d'entraide et de réponse aux questions sur la vie d'adulte
+Plateforme d'entraide et de réponses aux questions sur la vie d'adulte
